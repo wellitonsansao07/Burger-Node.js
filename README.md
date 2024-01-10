@@ -1,6 +1,9 @@
-<img "https://github.com/wellitonsansao07/Burger-Node.js/blob/main/assets/Desafio%20Node.png?raw=true" />
+<h1>Desafio Node</h1>
 
-O desafio pede para criar uma aplicação para fazer cadastros dos pedidos de uma hamburgueria, onde deveria utilizar Node e Express.
+<img src= "https://github.com/wellitonsansao07/Burger-Node.js/blob/main/assets/Desafio%20Node.png?raw=true" />
+<br>
+
+<h2> O desafio pede para criar uma aplicação para fazer cadastros dos pedidos de uma hamburgueria, onde deveria utilizar Node e Express.
 
 Para isso, eram necessário as seguintes rotas:
 
@@ -20,4 +23,4 @@ Além das rotas, deveria ser usado dois middlewares contendo:
 
 Crie um middleware que será utilizado em todas rotas que recebem o parâmetro ID, então ele deve verificar se o ID passado existe. Se não existir retorne um erro, caso contrário permita a requisição continuar normalmente;
 
-Crie um middleware que é chamado em todas requisições que tenha um console.log que mostra o método da requisiçao(GET,POST,PUT,DELETE, etc) e também a url da requisição.
+Crie um middleware que é chamado em todas requisições que tenha um console.log que mostra o método da requisiçao(GET,POST,PUT,DELETE, etc) e também a url da requisição. <h2>
